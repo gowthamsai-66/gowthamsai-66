@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gowthamsai-66
 - 👀 I’m interested in software developer
-- 🌱 I’m currently learning pytho and AI
+- 🌱 I’m currently learning python and AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: male he/him
