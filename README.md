@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python and AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: male he/him
+- 😄 Pronouns: male(he/him)
 - ⚡ Fun fact: There is no perfect in this world
 
 <!---
